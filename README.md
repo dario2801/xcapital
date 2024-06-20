@@ -1,27 +1,74 @@
-# DapperTest
+# XCAPITAL Project - Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+This project is a test created for a job application. The goal was to build a website using Angular. Although responsiveness was not a requirement, efforts were made to make the site as responsive as possible. However, the ideal resolution to view the design correctly is above 1640px.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Angular 17.2.0**: The project is developed using Angular 17.2.0.
+- **Responsiveness**: Efforts have been made to make the site responsive, although it was not a requirement.
+- **Optimized Design**: The best visual experience is obtained on screens with a resolution higher than 1640px.
+- **Reusable Components**: Reusable components have been created to facilitate maintainability and scalability.
+- **SCSS Styles**: SCSS has been used for style management.
 
-## Code scaffolding
+## Requirements
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+To run the project, you need to have installed:
 
-## Build
+- Node.js (version 14.x or higher)
+- Angular CLI
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Installation
 
-## Running unit tests
+Follow these steps to install and run the project locally:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/dario2801/xcapital.git
+    cd xcapital
+    ```
 
-## Running end-to-end tests
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. Run the application:
+    ```bash
+    ng serve
+    ```
 
-## Further help
+4. Open your browser and navigate to `http://localhost:4200/` to see the application in action.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Project Structure
+
+The project follows a modular structure to facilitate organization and scalability:
+
+- **src/app**: Contains all the components and modules of the application.
+- **src/assets**: Contains static resources such as images and global styles.
+- **src/environments**: Specific configurations for different environments (development and production).
+
+## Main Components
+
+- **xcapital_hero**: The main page of the site.
+- **xcapital_products**: List of available products.
+- **xcapital_steps**: Detail of specific steps.
+
+## Styles and Themes
+
+SCSS has been used for style management, allowing for better organization and reuse.
+
+## Future Improvements
+
+- **Responsiveness Optimization**: Continue improving the site's responsiveness for a more consistent user experience across different devices.
+
+## Contributions
+
+This project is a technical test, but any suggestions or contributions are welcome.
+
+## Contact
+
+For any questions or suggestions, you can contact me at [gonzalezdauda@gmail.com](mailto:gonzalezdauda@gmail.com).
+
+---
+
+Thank you for reviewing my project!
