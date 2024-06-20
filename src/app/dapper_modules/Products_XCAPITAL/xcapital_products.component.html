@@ -1,0 +1,24 @@
+<section class="container">
+    <div class="container_intro">
+        <div class="head">
+            <h2>Lorem ipsum dolor sit <span class="white_space">amet</span></h2>
+        </div>
+        <div class="text">
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin sit amet dolor ac
+                lobortis.
+                Phasellus lobortis vitae elit non dictum. Vestibulum feugiat ex vitae pulvinar ornare. Morbi in dui
+                semper,
+                ultrices orci ut, malesuada tellus.
+            </p>
+        </div>
+        <div class="section_products">
+            <article class="card" *ngFor="let product of products">
+                <img [src]="product.imgSrc" [alt]="product.imgAlt">
+                <h3 class="title">{{ product.title }}</h3>
+                <p class="description">{{ product.description }}</p>
+            </article>
+        </div>
+
+    </div>
+</section>
