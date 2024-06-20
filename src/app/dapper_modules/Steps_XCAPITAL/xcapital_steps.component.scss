@@ -295,6 +295,7 @@
     line-height: 42px;
   }
   .steps_view {
+    height: 100%;
     padding: 8px 15px;
   }
   .text {
@@ -312,7 +313,8 @@
     height: 100%;
   }
   .container_buttons {
-    padding: 35px 15px;
+    margin: 0 auto;
+    padding: 0px 15px;
     justify-content: center;
     width: 100%;
   }
