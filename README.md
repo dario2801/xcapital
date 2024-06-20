@@ -72,3 +72,14 @@ For any questions or suggestions, you can contact me at [gonzalezdauda@gmail.com
 ---
 
 Thank you for reviewing my project!
+
+# Images
+![image](https://github.com/dario2801/xcapital/assets/87903938/5b7c7eb7-2cc7-443e-a8ae-8e7298189f8b)
+![image](https://github.com/dario2801/xcapital/assets/87903938/771282de-cc38-4540-a5ef-d2ed1ecfb81b)
+![image](https://github.com/dario2801/xcapital/assets/87903938/216e3f4f-7911-464a-a66b-7274b5806651)
+![image](https://github.com/dario2801/xcapital/assets/87903938/ec55681f-7244-4272-a63f-8bb380257347)
+
+
+
+
+
